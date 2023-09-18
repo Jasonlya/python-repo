@@ -1,0 +1,4 @@
+2023-09-19 00:44:03,257 - test_logging.py:56 | INFO - info log
+2023-09-19 00:44:03,257 - test_logging.py:57 | WARNING - warning log
+2023-09-19 00:44:03,257 - test_logging.py:58 | ERROR - error log
+2023-09-19 00:44:03,258 - test_logging.py:59 | CRITICAL - critical log
