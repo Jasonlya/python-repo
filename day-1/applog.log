@@ -1,0 +1,6 @@
+2023-09-19 23:12:12|   DEBUG|test-2.py[:20]|debug log
+2023-09-19 23:12:24|   DEBUG|test-2.py[:20]|debug log
+2023-09-19 23:12:24|    INFO|test-2.py[:21]|info log
+2023-09-19 23:12:24| WARNING|test-2.py[:22]|warning log
+2023-09-19 23:12:24|   ERROR|test-2.py[:23]|error log
+2023-09-19 23:12:24|CRITICAL|test-2.py[:24]|critical log
